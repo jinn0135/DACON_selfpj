@@ -1,2 +1,4 @@
 # DACON 도배 하자 유형 분류 AI 경진대회
-### 팀원: 권윤, 김효정, 이우진
+
+- https://dacon.io/competitions/official/236082/overview/description
+- 팀 CNN2RNN (61위)
